@@ -1,8 +1,1 @@
-# hello-world
-First go at this
-echo "# hello-world" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/ChrisChewning/hello-world.git
-git push -u origin master
+I am an aspiring web developer, who will be enrolled in bootcamp, summer 2018.
